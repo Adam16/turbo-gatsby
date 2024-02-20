@@ -6,7 +6,7 @@ function IndexPage(_: PageProps): JSX.Element {
   return (
     <main>
       <h1>Web</h1>
-      <Button />
+      <Button label="CTA" primary />
     </main>
   );
 }
